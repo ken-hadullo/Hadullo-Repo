@@ -1,2 +1,1 @@
-# Hadullo-Repo
-Hadullo Code Repo
+"# My First Git Project on web programming" 
